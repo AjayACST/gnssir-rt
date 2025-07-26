@@ -2,16 +2,16 @@
 # DO NOT REMOVE THE LINE ABOVE
 
 # general
-sdt: 21-11-25 00:00
-edt: 21-11-26 00:00
-antennaids: ["ACM0", "ACM1", "ACM2", "ACM3"]
-hgts: [0.2, 0.3, 0, 0.1]
-lla: [47.4488045, -70.365557, -20]
+sdt: 25-05-22 00:00
+edt: 25-05-22 23:59
+antennaids: ["ACM0"]
+hgts: [0.2]
+lla: [-44.71660967, 169.17844583, 342.4]
 
 # snr2arcs parameters
-azilims: [190, 250]  # 190, 250
-elvlims: [5, 20]  # 5, 20
-rhlims: [1.5, 9]
+azilims: [0, 360]  # 190, 250
+elvlims: [3, 35]  # 5, 20
+rhlims: [1, 6]
 
 # arc2splines parameters
 kdt: 7200

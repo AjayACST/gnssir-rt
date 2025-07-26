@@ -3,7 +3,7 @@ defaults:
   - _self_
 
 # set task from command line
-task: set_function_name
+task: arcsplot
 
 # directories and files
 cwd: ${hydra:runtime.cwd}

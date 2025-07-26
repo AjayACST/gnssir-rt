@@ -1,0 +1,4 @@
+name: gnssir
+channels:
+  - conda-forge
+  -
